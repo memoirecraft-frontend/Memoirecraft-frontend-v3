@@ -65,3 +65,4 @@ src/
 - Stripe (paiements)
 - Zustand (state management)
 - Axios (API client)
+Déploiement en cours...
