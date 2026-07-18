@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import Navbar from "@/components/Navbar";
-import PricingCards from "@/components/pricing/PricingCards";
-import PaymentModal from "@/components/payment/PaymentModal";
+import Navbar from "../components/Navbar";
+import PricingCards from "../components/pricing/PricingCards";
+import PaymentModal from "../components/payment/PaymentModal";
 
 const features = [
   { icon: "📥", title: "Import universel" },
